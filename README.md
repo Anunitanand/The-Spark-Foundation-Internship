@@ -1,5 +1,6 @@
 # The-Spark-Foundation-Internship
 
+
 This repository contains the tasks that I completed while working as an intern for [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/).
 
 - I build a deep neural network model to classify traffic signs present in the image into different categories.
