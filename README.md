@@ -45,8 +45,8 @@ Our model got a 95% accuracy on the training dataset. With matplotlib, we plot t
 Our dataset contains a test folder and in a test.csv file, we have the details related to the image path and their respective class labels. We extract the image path and labels using pandas. Then to predict the model, we have to resize our images to 30×30 pixels and make a numpy array containing all image data. From the sklearn.metrics, we imported the accuracy_score and observed how our model predicted the actual labels. We achieved a 96% accuracy in this model.
 
 ## References:
-[Blog1](https://www.pyimagesearch.com/2019/11/04/traffic-sign-classification-with-keras-and-deep-learning/).
-[Blog2](https://towardsdatascience.com/recognizing-traffic-signs-with-over-98-accuracy-using-deep-learning-86737aedc2ab).
-[Youtube](https://youtu.be/SWaYRyi0TTs).
+- [Blog1](https://www.pyimagesearch.com/2019/11/04/traffic-sign-classification-with-keras-and-deep-learning/).
+- [Blog2](https://towardsdatascience.com/recognizing-traffic-signs-with-over-98-accuracy-using-deep-learning-86737aedc2ab).
+- [Youtube](https://youtu.be/SWaYRyi0TTs).
 
-[
+
